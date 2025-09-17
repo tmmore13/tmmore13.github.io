@@ -1,0 +1,9 @@
+python-frontmatter
+getorg
+geopy
+jupyter
+pandas
+numpy
+matplotlib
+scikit-learn
+msvc-runtime
