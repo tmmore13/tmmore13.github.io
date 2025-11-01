@@ -1,7 +1,7 @@
 ---
 title: 'What We Have Learned About Tumors Through Genomic Sequencing'
 date: '2025-11-01'
-permalink: _posts\2025-11-01-What_We_Learned.md
+permalink: /posts/2025/11/what-we-have-learned-about-tumors-through-genomic-sequencing/
 tags:
   - cool posts
   - category1
